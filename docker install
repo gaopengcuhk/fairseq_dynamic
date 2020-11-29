@@ -1,0 +1,5 @@
+
+cd /datadrive_b/gaopeng_bert/DeepLearningExamples/PyTorch/LanguageModeling/BERT/
+bash scripts/docker/launch.sh
+cd fairseq
+pip install --editable ./
